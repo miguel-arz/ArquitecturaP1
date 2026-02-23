@@ -332,5 +332,5 @@ void repl(const std::string& prompt, environment* env)
 int main()
 {
     environment global_env; add_globals(global_env);
-    repl("90> ", &global_env);
+    repl("tumama> ", &global_env);
 }
