@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\miguel.ariza\\OneDrive - U-tad\\Documents\\GitHub\\ArquitecturaP1\\ArquitecturaP1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{305BC6D7-8885-4AB4-9BA0-481A7A936D8E}|ArquitecturaP1\\ArquitecturaP1.vcxproj|C:\\Users\\miguel.ariza\\OneDrive - U-tad\\Documents\\GitHub\\ArquitecturaP1\\ArquitecturaP1\\ArquitecturaP1\\ArquitecturaP1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{305BC6D7-8885-4AB4-9BA0-481A7A936D8E}|ArquitecturaP1\\ArquitecturaP1.vcxproj|solutionrelative:ArquitecturaP1\\ArquitecturaP1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\miguel.ariza\\OneDrive - U-tad\\Documents\\GitHub\\JuanEngine\\Source\\Ariza\\miniaudio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +26,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArquitecturaP1.cpp",
-              "DocumentMoniker": "C:\\Users\\miguel.ariza\\OneDrive - U-tad\\Documents\\GitHub\\ArquitecturaP1\\ArquitecturaP1\\ArquitecturaP1\\ArquitecturaP1.cpp",
-              "RelativeDocumentMoniker": "ArquitecturaP1\\ArquitecturaP1.cpp",
-              "ToolTip": "C:\\Users\\miguel.ariza\\OneDrive - U-tad\\Documents\\GitHub\\ArquitecturaP1\\ArquitecturaP1\\ArquitecturaP1\\ArquitecturaP1.cpp",
-              "RelativeToolTip": "ArquitecturaP1\\ArquitecturaP1.cpp",
-              "ViewState": "AgIAAD0BAAAAAAAAAAAuwE4BAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-23T20:04:59.49Z",
+              "Title": "miniaudio.h",
+              "DocumentMoniker": "C:\\Users\\miguel.ariza\\OneDrive - U-tad\\Documents\\GitHub\\JuanEngine\\Source\\Ariza\\miniaudio.h",
+              "RelativeDocumentMoniker": "..\\..\\JuanEngine\\Source\\Ariza\\miniaudio.h",
+              "ToolTip": "C:\\Users\\miguel.ariza\\OneDrive - U-tad\\Documents\\GitHub\\JuanEngine\\Source\\Ariza\\miniaudio.h",
+              "RelativeToolTip": "..\\..\\JuanEngine\\Source\\Ariza\\miniaudio.h",
+              "ViewState": "AgIAAN8IAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T19:29:41.515Z",
               "EditorCaption": ""
             }
           ]
